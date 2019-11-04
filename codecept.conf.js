@@ -10,7 +10,7 @@ exports.config = {
         TestCafe: {
             url: 'https://evo.co.uk',    // just any value, url is set in test
             browser: 'chrome',         // other values: 'firefox', 'ie' (windows)
-            show: true,                 // set to false for headless mode
+            show: false,                 // set to false for headless mode
             waitForTimeout: 5000,      // wait for elements to appear
             getPageTimeout: 20000       // wait for page to load
         },

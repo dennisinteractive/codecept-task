@@ -27,6 +27,7 @@
     }
   },
   "scripts": {
+    "test": "codeceptjs run --steps",
     "test:report-junit": "codeceptjs run --reporter mocha-junit-reporter",
     "test:report-mochawesome": "codeceptjs run --reporter mochawesome"
   },
