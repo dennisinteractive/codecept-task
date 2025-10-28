@@ -38,7 +38,7 @@
     "codeceptjs": "^2.3.3",
     "mocha-junit-reporter": "^1.22.0",
     "mocha-multi": "^1.1.0",
-    "mochawesome": "^3.1.2"
+    "mochawesome": "^7.1.4"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
